@@ -57,6 +57,7 @@ AdamW
 Updated Weights
      ↓
 Repeat for Multiple Batches / Epochs
+```
 
 ## ⚙️ Tech Stack
 
